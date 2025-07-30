@@ -31,11 +31,14 @@ Here are the visualizations included in this project:
 | 📊 Plot Title | 📁 File Name |
 |--------------|-------------|
 | Comparison Between Movies And TV Shows | `comparison_type.png` |
+| Year-wise Netflix Content Release Trend | `yearly_release_trend.png` |
 | Netflix Content per Year by Type | `content_by_year_type.png` |
 | Top 10 Countries Producing Netflix Content | `top_10_countries.png` |
 | Top 10 Most Frequent Genres | `top_10_genres.png` |
 | Top 5 Netflix Actors by Number of Titles | `top_5_actors_pie.png` |
-| Heatmap of Missing Values | `null_heatmap.png` |
+| Top 5 Netflix Content Ratings | `top_5_rating.png` |
+| Release Year Distribution by Top 5 Content Ratings | `release_year_by_rating.png` |
+| Top 10 Netflix Directors | `top_10_director.png` |
 
 _All plots are saved in the root folder as `.png` files._
 
